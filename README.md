@@ -1,11 +1,11 @@
-# AcheLog Support
+# AcheAtlas Support
 
-Public support and legal pages for [AcheLog](https://github.com/nunosiii/achelog), served via GitHub Pages:
+Public support and legal pages for [AcheAtlas](https://github.com/nunosiii/acheatlas), served via GitHub Pages:
 
-- Support / FAQ: https://nunosiii.github.io/achelog-support/
-- Privacy Policy: https://nunosiii.github.io/achelog-support/privacy.html
-- Terms of Use: https://nunosiii.github.io/achelog-support/terms.html
+- Support / FAQ: https://nunosiii.github.io/acheatlas-support/
+- Privacy Policy: https://nunosiii.github.io/acheatlas-support/privacy.html
+- Terms of Use: https://nunosiii.github.io/acheatlas-support/terms.html
 
-The AcheLog app source stays private; this repo exists only so App Store Connect has
+The AcheAtlas app source stays private; this repo exists only so App Store Connect has
 a public URL to point at. Source of truth for the policy text is `docs/PRIVACY.md`
-and `docs/TERMS.md` in the main AcheLog repo — update both places together.
+and `docs/TERMS.md` in the main AcheAtlas repo. Update both places together.
